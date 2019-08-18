@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'trade.wsgi.application'
 DATABASES = {
 'default': {  
             'ENGINE': 'django.db.backends.mysql',  
-            'NAME': 'trade1',  
-            'USER': 'root',  
-            'PASSWORD': '906978985',
+            'NAME': 'trade',
+            'USER': 'ning',
+            'PASSWORD': 'ninggc',
             'HOST': '123.207.244.139',
             'PORT': '3306',  
         }  
